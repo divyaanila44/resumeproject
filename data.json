@@ -1,0 +1,53 @@
+{
+  "basics":{
+    "name":"Divya",
+    "photo":"profile.png",
+    "email":"anila578.gelli@gmail.com",
+    "mobileno":"6457756867",
+    "address":"SVIT college"
+  },
+  "career":{
+"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+  "degree":"B-Tech",
+"institute":"SVIT,Anantapur",
+"data":["2016-20","75%"]
+},
+{
+  "degree":"Intermediate",
+"institute":"SreeChaitanya",
+"data":["2013-15","87%"]
+},
+
+  {
+    "degree":"S.S.C",
+  "institute":"C.V.R Memorial School",
+  "data":["2013-14","87%"]
+  }
+],
+"skills":[
+  {
+    "sname":"languages",
+    "sdata":["C","C++","java"]
+  },
+  {
+
+
+
+
+
+    "sname":"DataBases",
+    "sdata":["Orcale","MySql","MySqlite","PDO"]
+  },
+  {
+    "sname":"Web Technologies",
+    "sdata":["HTML","XML","CSS","PHP","javascript"]
+  },
+{
+  "sname":"Operating System",
+  "sdata":["Windows","Linux","Unix"]
+}
+]
+}
